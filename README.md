@@ -18,3 +18,18 @@
         For more details, visit my <a href="https://jasonyeon.com"><strong>website</strong></a>, or connect with me on <a href="https://linkedin.com/in/seojoon/"><strong>LinkedIn</string></a>.
     </p>
 </div>
+
+
+## 📈 Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Markdown        1 hr 53 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
+Other           1 hr 37 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.10 %
+Bash            1 hr 37 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Typst           1 hr 35 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
+Rust            46 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+```
+
+<!--END_SECTION:waka-->
