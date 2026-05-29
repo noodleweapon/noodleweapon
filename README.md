@@ -25,11 +25,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          14 mins               ████████████████████▒░░░░   81.05 %
-Python            2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-Go                0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Protocol Buffer   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Docker            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
