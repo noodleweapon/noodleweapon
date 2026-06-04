@@ -25,7 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash       1 hr 4 mins           ██████████░░░░░░░░░░░░░░░   40.61 %
+Markdown   42 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+Other      15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+C++        15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+TeX        12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
 ```
 
 <!--END_SECTION:waka-->
